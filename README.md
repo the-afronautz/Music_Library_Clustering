@@ -6,4 +6,5 @@ Clustering was completed using a combination of statistical methods, K-Means and
 I was able to use these new track groupings to create unique mixes and live performances. Further details of the project can be found in the attached paper as well as the Jupyter Notebook containing all Python code.
 
 [Python Jupyter Notebook](https://github.com/theafronautz/Music_Library_Clustering/blob/main/DJ%20Library%20Clustering%20Analysis%20.ipynb)  
+[Medium Article](https://medium.com/@fjohnson199517/unsupervised-learning-techniques-for-music-segmentation-84e5e713e701)
 [Paper](https://github.com/theafronautz/Music_Library_Clustering/blob/main/Unsupervised%20Learning%20Techniques%20for%20Music%20Collection%20Segmentation.pdf)
